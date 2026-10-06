@@ -1,5 +1,5 @@
 -- Day 01: Introduction to SQL & Relational Databases
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DeJM2WcJ8B0/?stkn=MTRnY2RwMm5tazhqYw==]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
