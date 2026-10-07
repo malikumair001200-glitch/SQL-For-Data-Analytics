@@ -1,5 +1,5 @@
 -- Day 02: The SELECT Statement (Column Projection & Wildcards)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DeLuty5Nort/?stkn=MWc5YWQ3NjVteG04Yw==]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
