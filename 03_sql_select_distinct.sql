@@ -1,5 +1,5 @@
 -- Day 03: The SELECT DISTINCT Statement (Removing Duplicate Data)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DeOTjrMN_yZ/?stkn=ZTBxOWY0cXBvdzkz]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
