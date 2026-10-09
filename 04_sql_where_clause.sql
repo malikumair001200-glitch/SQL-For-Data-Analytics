@@ -1,5 +1,5 @@
 -- Day 04: The WHERE Clause (Filtering Table Records)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DeQzyPfNozv/?vrfl=NzNpY251MXJxazc1]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
