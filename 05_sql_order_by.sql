@@ -1,5 +1,5 @@
 -- Day 05: The ORDER BY Keyword (Sorting Query Results)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DeTc9eUNpks/?dlrf=MTBtNDlhZjFqd2NhcA==]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
