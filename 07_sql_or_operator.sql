@@ -1,5 +1,5 @@
 -- Day 07: The Logical OR Operator (Inclusive Multi-Condition Filtering)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DeYrkA6tfbL/?xtok=OHZodWdjcTh0ODEz]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
