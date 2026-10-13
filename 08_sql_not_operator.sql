@@ -1,5 +1,5 @@
 -- Day 08: The Logical NOT Operator (Exclusion Data Filtering)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DebVu5PtWOw/?cplk=MTBvbWh0ZXVweHFscw==]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
