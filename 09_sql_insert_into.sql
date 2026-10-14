@@ -1,5 +1,5 @@
 -- Day 09: The INSERT INTO Statement (Adding New Records)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/Ded0yJft_ly/?dlrf=MWx3MGNoZDQyemxwZw==]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
