@@ -1,5 +1,5 @@
 -- Day 10: Handling NULL Values (IS NULL and IS NOT NULL Operators)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DeggAewtiqI/?vrfl=OHIwaTk0b3M4Z3Vx]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
