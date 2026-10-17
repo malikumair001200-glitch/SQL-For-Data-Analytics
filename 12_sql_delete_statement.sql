@@ -1,5 +1,5 @@
 -- Day 12: The DELETE Statement (Removing Records & The WHERE Risk)
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DemAsoAtySU/?srtk=MTNncXQxMHR5b2tnNQ==]
 -- Author: Waqas Manzoor
 -- Series: SQL Zero to Hero for Data Analytics
 
