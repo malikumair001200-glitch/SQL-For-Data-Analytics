@@ -1,5 +1,5 @@
 -- Day 14: SQL MIN() Function & Aggregations
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DerAZIstHGa/?rpxt=NjJibDVwZjBxcGxz]
 -- Author: Waqas Manzoor
 
 /*
