@@ -1,5 +1,5 @@
 -- Day 15: SQL MAX() Function & Aggregations
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/Dev62HnNvs9/?rpxt=MTRsOXpjbjJ4eHp1Yg==]
 -- Author: Waqas Manzoor
 
 /*
