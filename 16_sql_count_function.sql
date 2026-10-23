@@ -1,5 +1,5 @@
 -- Day 16: SQL COUNT() Function & Categorical Aggregations
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/De1YPk8NORe/?rpxt=MTh4NWRvdXl5dHYxZw==]
 -- Author: Waqas Manzoor
 
 /*
