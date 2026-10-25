@@ -1,5 +1,5 @@
 -- Day 17: SQL SUM() Function & Categorical Aggregations
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/De6SblCt_AL/?vrfl=MWNjOW41ODhzYXoydA==]
 -- Author: Waqas Manzoor
 
 /*
