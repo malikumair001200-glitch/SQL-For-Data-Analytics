@@ -1,5 +1,5 @@
 -- Day 18: SQL AVG() Function & Categorical Aggregations
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DfArRIbNNJD/?obrf=MWhyeGExN24wMGV5NA==]
 -- Author: Waqas Manzoor
 
 /*
