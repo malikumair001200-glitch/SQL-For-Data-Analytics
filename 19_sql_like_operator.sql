@@ -1,5 +1,5 @@
 -- Day 19: SQL LIKE Operator & Wildcard Pattern Matching
--- Watch Video Tutorial: [Video Publish Hone Ke Baad Yahan Link Paste Karein]
+-- Watch Video Tutorial: [https://www.instagram.com/reel/DfMZU5yN3Ir/?mdxt=dm10b2hqYjhzMms3]
 -- Author: Waqas Manzoor
 
 /*
